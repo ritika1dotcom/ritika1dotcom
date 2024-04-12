@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritika1dotcom
+- 👋 Hi, I’m Ritika Shrestha
 - 👀 I’m interested in designing, fullstack development
 - 🌱 I’m currently learning UI/UX designing, full stack development
 - 💞️ I’m looking to collaborate on ...
